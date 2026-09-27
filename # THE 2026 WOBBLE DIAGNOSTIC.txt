@@ -1,0 +1,310 @@
+# THE 2026 WOBBLE DIAGNOSTIC
+## The system is still running. Check what it is burning.
+
+**Doomer edition · Adapted from v2.4 · Evidence cutoff: August 17, 2026**
+
+*This is an editorial rewrite of the supplied diagnostic. Figures, projections, classifications, and source links come from that document and have not been independently refreshed. References to the present describe its August 17 snapshot. The stress scenarios remain conditional.*
+
+The most disturbing possibility in this document is that the system keeps working.
+
+Payments clear. Markets open. Congress patches the deadline. The bank extends the loan. Inflation cools enough to support another reassuring paragraph. A household cancels an appointment, carries groceries on a credit card, takes another shift, and makes the mortgage.
+
+The mortgage is recorded as performing.
+
+The appointment, the interest, and the missing sleep barely register.
+
+Repeat that adjustment across enough households and you can produce an economy that looks serviceable while becoming progressively harder to live inside. Each month ends with the machinery intact and the people maintaining it with fewer reserves.
+
+That is the Maintenance Trap. It remains the best-supported reading of the supplied evidence.
+
+The August refresh actually weakened the immediate cascade case. Several indicators improved. Those improvements matter. They leave us with a bleak possibility that requires fewer spectacular assumptions: prolonged stability financed through the consumption of household options.
+
+The lights stay on. More of the bill comes out of you.
+
+### 1. The diagnosis: a functioning system with an expensive appetite
+
+The framework identifies one Acute loop, five Active loops, and three Background-to-Active loops. Its formal position remains **Phase II / Pre-Watch**.
+
+| Loop | Classification at the cutoff | What remains exposed |
+|---|---|---|
+| D — External shock | **Acute** | Renewed Hormuz attacks, disrupted shipping, volatile energy costs |
+| A — Debt and energy | Active | High household costs, concentrated utility increases, expensive borrowing |
+| B — AI and labor | Active | Concentrated restructuring and uncertain circulation of productivity gains |
+| B-2 — AI and prices | Active, poorly measured | A possible component-price channel into inflation and monetary policy |
+| F — Adaptive depletion | Active | Households absorbing pressure through debt and private sacrifice |
+| G — Insurance, taxes, escrow | Active | Scheduled increases in the cost of keeping existing housing |
+| C — Commercial property and credit | Background-to-Active | Property distress with systemic bank transmission still unverified |
+| E — Demographic pressure | Background-to-Active | Labor fragility whose demographic causes remain uncertain |
+| H — Policy delay | Background-to-Active | Residual funding and response risks after early stopgap progress |
+
+An Active loop shows deterioration across multiple indicators or reporting periods. An Acute loop worsens sharply and transmits stress into another domain. Phase III Watch requires two Acute loops with observed interaction. A cascade requires those loops to reinforce each other within the same quarter.
+
+Five Active loops cannot be added together to manufacture a second Acute loop. The dashboard has to earn an escalation.
+
+What the current classification allows is already ugly: damage can accumulate for a long time below the threshold for systemic emergency. Institutions can keep announcing that the threshold has not been crossed. Households can keep paying for the interval.
+
+### 2. Household credit: the emergency reserve is carrying interest
+
+The supplied Q2 debt figures put total household debt at **$18.771 trillion**. The reported $13 billion quarterly decline mostly reflects a mortgage-servicer reporting transfer. It offers little evidence of households rebuilding their finances through broad debt repayment.
+
+Underneath it, credit-card balances rose **$21 billion to $1.263 trillion**. Auto balances rose **$28 billion**. HELOC balances rose **$13 billion**.
+
+A March survey of 2,000 consumers with active debt accounts found **53% carrying credit-card balances for essential expenses**. That is a finding about an indebted sample, with a narrower reach than a population estimate. Within that sample, it describes a grim household arrangement: necessities purchased now, interest charged for having needed them.
+
+Credit can buy time. When it finances recurring essentials, that time arrives with another claim on future income. A household reaches the next month having already promised away part of it.
+
+The counterevidence belongs here too. Aggregate delinquency eased from **4.8% to 4.7%**. Serious-delinquency flows were mixed. Student-loan balances at least 90 days delinquent reached **10.6%**, while bankruptcy notations rose from **124,020 to roughly 137,000**. Formal breakage was not clustering cleanly.
+
+The evidence supports persistent pressure with weak pockets and some aggregate improvement. It cannot establish how many performing accounts are being maintained through increasingly costly sacrifice.
+
+That uncertainty is the diagnostic problem. “Still paying” tells you that a payment arrived. It leaves a great deal unsaid about what had to disappear first.
+
+### 3. Housing can get more expensive while you stand completely still
+
+The escrow projection cited in the diagnostic is unusually effective at removing the need for a dramatic trigger: **about 65% of escrow accounts were projected to be short in 2026**, with an average shortfall around **$2,100**. Spread over twelve payments, that is roughly **$175 a month for affected accounts**, before allowing for individual repayment arrangements and other payment changes.
+
+The house does not acquire an extra room. The commute does not improve. A tax reassessment or insurance renewal simply changes the price of remaining where you already are.
+
+In the cited LERETA survey, **47%** said a 10% monthly payment increase would be a hardship; **15%** said they could not handle it. Those responses should retain their reported categories rather than being casually added together. They already describe a substantial vulnerability to a relatively ordinary adjustment.
+
+The source also reports property taxes up **5.2% in 2025** and **28.5% since 2019**, and projects average home insurance near **$3,057 by the end of 2026**, about **46% above 2021**.
+
+These pressures arrive through separate renewal and assessment processes. A favorable inflation release does not erase the escrow shortage. A near-term Fed decision does not automatically reverse an insurer's renewal quote.
+
+The machinery has a schedule. Your capacity to absorb another charge is not part of that schedule.
+
+This reaches into the framework's middle household band, where fragility can remain concealed behind a mortgage, a job, and the ability to answer “fine” without elaborating. A household can look established while having almost no room left for establishment to become more expensive.
+
+### 4. Healthcare: another round of pricing, on a smaller enrollment base
+
+The diagnostic's comparable Marketplace series shows effectuated enrollment falling from **21.8 million to 19.2 million**: approximately **2.6 million fewer enrollees**. Every state except New Mexico declined.
+
+That change does not tell us how many people became uninsured. Some may have obtained coverage elsewhere. The downstream outcomes remain incompletely measured.
+
+The price pressure is clearer. The cited analysis reports average net premium payments up **58%** and average deductibles up **$1,027**. For 2027, the median **proposed** premium increase was **15% across 276 insurers** in all states and DC. Proposed rates still faced review, and that median cannot be translated directly into every enrollee's net bill.
+
+Even with those distinctions intact, the picture is harsh. The next enrollment cycle approaches after a major fall in effectuated enrollment and substantial increases in what covered households pay.
+
+One risk to monitor is adverse selection: healthier people leave because of price, the remaining pool becomes more expensive to insure, and subsequent pricing encourages further exits. The enrollment decline alone cannot establish that chain.
+
+At household level, a deductible can make illness feel like a financial decision long before it produces a medical bill. Deferred care can preserve this month's payment record while moving the consequence into a body and a later date.
+
+The source does not quantify that entire consequence. The absence of a complete count gives us a measurement gap. It gives nobody their appointment back.
+
+### 5. Work: the lower rungs can weaken while the headline looks manageable
+
+The July labor figures in the source show **23,000 fewer payroll jobs**, combined downward revisions of **103,000** to May and June, labor-force participation at **61.4%**, and temporary layoffs increasing by **153,000 to 921,000**. Overall unemployment was **4.1%**.
+
+Real hourly earnings were flat year over year in June and slipped to **−0.2% in July**. The recovery in purchasing power was fragile.
+
+AI was the leading *stated* reason for announced cuts for a fifth consecutive month: **10,970 in July**, **112,713 year to date**. Employer explanations do not independently establish causation. Some ordinary restructuring may acquire an AI label because the label is useful.
+
+The broad layoff evidence improved substantially: total July announced cuts fell to **33,429**, a two-year low, and employers announced **16,095 hiring plans**, the strongest July since 2022. A generalized AI layoff cascade was not appearing in those figures.
+
+The narrower concern survives. Routine cognitive and administrative roles are places where people enter office work, build experience, and turn education into a sustainable income. Concentrated erosion there can narrow routes into stability even while aggregate hiring continues.
+
+The recent-graduate unemployment figure of roughly **5.7%** came from a smoothed Q1 series. It cannot be treated as a direct July comparison with the overall 4.1% rate, and neither figure establishes AI causation.
+
+The distribution question remains open: where do productivity gains go? Higher wages, lower bills, and stronger public services would relieve this mechanism. Cost savings that remain concentrated leave households trying to finance their lives inside someone else's efficiency story.
+
+### 6. Energy: the average is cooling; some places are still getting cooked
+
+National electricity inflation slowed in the supplied EIA series. All-sector annual growth moved from **9.0% in February to 6.0% in April and 5.3% in May**. Residential growth fell from **7.4% to 7.3% to 6.2%**.
+
+That is meaningful relief from acceleration. It weakens the immediate shock case.
+
+The geography is less comforting. May all-sector price levels implied annual increases of approximately **22.2% in Ohio, 21.6% in DC, 18.4% in Maryland, 17.7% in Virginia, and 16.5% in Pennsylvania**. These are all-sector average price changes, with a different scope from the change in a particular family's utility bill.
+
+A national average has room for both deceleration and severe local increases. A household budget has room only for the bill that actually arrives.
+
+Data centers require generation, transmission, cooling, and other physical infrastructure. Whether their costs reach households depends on regional systems, contracts, and rate decisions. The EIA geographic pattern alone cannot assign those increases to AI.
+
+The separate AI price channel is also narrower than its largest number makes it look. The cited Fed note reports a **73.1% annualized increase over four months** in the PCE Computer Software and Accessories category through March. That is a short-window, annualized category measure with composition, quality-adjustment, and attribution uncertainty. The aggregate contribution remains poorly measured. Cooler June and July CPI cuts against a large immediate contribution.
+
+The mechanism still deserves attention: infrastructure demand could influence both local costs and selected component prices. If persistent pressure becomes large enough to alter monetary policy, a technology investment boom could reach households through the price of borrowing as well as the price of electricity.
+
+Several gates stand between that possibility and a demonstrated economy-wide shock. Keep them standing.
+
+### 7. The external shock keeps returning before the budget has recovered
+
+Hormuz remains the sole Acute loop in the source's classification. Its account describes reopening in June followed by renewed July and August attacks and severe disruption to normal commercial traffic.
+
+The cited IMO log recorded **62 confirmed incidents and 17 seafarer deaths by July 27**. The August 17 snapshot placed Brent near **$90.87**, after a July range of roughly **$72–$102**. Transit estimates differed by vessel class, tracking coverage, baseline, and whether the measure counted ships or transported volumes.
+
+Those distinctions matter. A single crossing count cannot describe the whole energy system.
+
+Repeated reversal is the feature that makes this loop especially corrosive. A household adjusts to expensive fuel, sees relief, reallocates scarce money, and gets hit again. A firm revises contracts and margins while the conditions beneath those decisions keep changing. Policymakers have to distinguish a temporary price move from pressure that will persist.
+
+Each apparent resolution risks being spent before it proves durable.
+
+July consumer prices had already shown some relief: energy fell **1.5% month over month**, and gasoline fell **2.9%**, although their annual increases remained **14.7%** and **24.6%** respectively. The subsequent spot-oil move was a forward risk. It had not yet established renewed, sustained consumer-price acceleration.
+
+The darker mechanism is conditional: repeated supply shocks could turn a temporary squeeze into persistent inflation pressure, and persistent pressure could restrict the policy response precisely when households need more room.
+
+The next section is where that possibility would have to become observable.
+
+### 8. The dangerous turn: relief becomes harder to deliver
+
+The Fed held its target range at **3.50–3.75% on July 29**, by **9–3**. Three members preferred a quarter-point increase. After the July CPI release, the dated market estimate carried in the source put a September hold near **64%**. That estimate describes its timestamp, with no claim to today's pricing or the eventual decision.
+
+The near-term hike scenario weakened. The conditional risk remains that inflation pressure could keep borrowing expensive or provoke a restrictive surprise while other parts of the economy need relief.
+
+Commercial property is one possible transmission route. July CMBS delinquency reached **7.86% overall** and **11.91% for office**, with office still below January's **12.34%** record. Trepp's cited series identified **$76.6 billion in 2026 CMBS hard maturities**, **39% in Q4**. That series is narrower than all commercial real-estate maturities.
+
+The bank transmission was unverified. The sampled Regions filing showed loan growth, lower net charge-offs, and a **10.7% CET1 ratio**. The cited FDIC list showed no failure after May 1 through the cutoff. One bank's results cannot clear the entire sector, but they do push against a claim that property stress is already becoming a banking cascade.
+
+For the severe policy-and-credit scenario to activate, three things must happen:
+
+1. A renewed supply shock produces sustained inflation pass-through across more than one print.
+2. The Fed hikes or communicates a sufficiently restrictive path to materially worsen refinancing conditions.
+3. Property stress visibly transmits into bank credit, small-business lending, household income, or another domain while the external-shock loop remains Acute.
+
+Higher rates would affect variable-rate debt, new borrowing, and refinancing unevenly. The entire $18.771 trillion household debt stock would not reprice at once.
+
+If the gates are met, stress can travel from shipping to prices, from prices to policy, from policy to refinancing, and from refinancing to credit and employment. An institution trying to restore price stability could find itself increasing immediate pressure on households with very little remaining cushion.
+
+That is the feared second Acute loop. The August evidence does not establish that it has arrived.
+
+### 9. Adaptive depletion: normality has a private disposal system
+
+Before households default, they adapt. They share housing, postpone care, add shifts, ask relatives for money, increase deductibles, defer repairs, withdraw savings, and replace paid childcare with unpaid family labor.
+
+Each adjustment can be reasonable in isolation. Together, repeated over time, they can consume the capacity that made the next adjustment possible.
+
+The spare bedroom fills. The parent providing childcare gets tired. The car repair becomes harder to postpone. A second job takes the hours previously used to recover from the first. Money borrowed from family comes from another household's cushion.
+
+The household becomes the institution of last resort.
+
+These are mechanisms to investigate, with uneven measurement. The diagnostic has numerical anchors for some debt and Marketplace enrollment changes; it does not have a refreshed national series for every kind of exhaustion. A convincing account of hidden damage still needs evidence capable of proving it wrong.
+
+The original also considers a deeper, bodily form of absorption in unsafe informal work, drug markets, and unlicensed procedures. Those harms have many independent causes. Its shadow-depletion tier supplies qualitative hypotheses, no dashboard trigger and no demonstrated macroeconomic trend. Injury, exploitation, or overdose cannot be turned into automatic confirmation of this framework.
+
+The useful question is narrower and serious enough: when money and formal support run short, where does the remaining cost go?
+
+Sometimes it can move into health, physical risk, unpaid work, and future earning capacity. Those costs may appear late, in systems that were never designed to report them as household financial stress.
+
+A resilience statistic can conceal a transfer of damage. Finding out whether that is happening requires looking at the people doing the absorbing.
+
+### 10. Exposure is staggered, which helps the damage stay fragmented
+
+The bottom 60% is not one synchronized household waiting for a shared breaking point. The diagnostic separates three exposure bands:
+
+| Household band | Where pressure can surface first | Why the damage can be missed |
+|---|---|---|
+| Bottom 20% | Rent, food access, utilities, transportation, medical care | Fast local distress can be dismissed as a local problem |
+| 20th–40th percentile | Unstable hours, auto payments, cards, childcare, insurance | Credit and benefit data often register consequences with a lag |
+| 40th–60th percentile | Escrow, mortgages, student loans, premiums, office-job instability | An apparently established household can absorb pressure until a triggering expense arrives |
+
+The boundaries are analytical; the pressures overlap. Higher earners can be exposed too, depending on their costs and reserves.
+
+Staggered damage creates a recognition problem. One family loses coverage in February. Another gets its escrow adjustment in June. Another loses hours in September. Their experiences may share a mechanism without producing one dramatic release day.
+
+The economy can distribute the pain widely enough to keep the aggregate tolerable, while each household experiences its portion as intensely specific and increasingly difficult to escape.
+
+### 11. The calendar keeps issuing appointments to people already in the waiting room
+
+The late-2026 institutional overlap matters as a window for observing decisions and consequences. Rent, debt, energy costs, and household reserves supply the material pressure.
+
+| Date or window | What the supplied diagnostic watches |
+|---|---|
+| September 15–16 | FOMC decision and projections; whether restrictive policy risk rises or recedes |
+| September 30 | Funding boundary, with different House and Senate stopgaps already passed but still requiring enactment at the cutoff |
+| Rolling individual deadlines | SAVE borrower transitions, with individual 90-day clocks and impacts extending beyond quarter-end |
+| October earnings season | Whether summer input costs appear in margins, guidance, employment, and credit demand |
+| October 27–28 | FOMC decision during earnings season and before the election |
+| November 1 | ACA enrollment begins against another round of proposed repricing |
+| November 3 | Midterm election and its implications for subsequent policy decisions |
+| December 4 or 11 | Alternative stopgap expiration dates in the two texts as they stood at the cutoff |
+
+There is **no universal October 1 SAVE exit deadline**. The early House and Senate stopgaps reduced the October shutdown path. The Senate's **90–6** vote was a substantial repair signal. Enactment still mattered, and the residual funding boundary depended on the eventual law.
+
+The shortened federal ACA enrollment window had also been vacated, with an appeal and related litigation continuing. A compressed window should not be treated as settled in this snapshot.
+
+Removing those synchronized cliffs weakens the dramatic autumn story. The repeated, individual demands on household money remain. A deadline can be dispersed across millions of calendars and still extract a great deal from the people facing it.
+
+If an appropriations lapse disrupts federal releases, use available private and state series with their limitations stated. Missing data means reduced visibility. It cannot establish either calm or crisis.
+
+### 12. What the plausible bad outcomes actually look like
+
+The source retains eight conditional scenarios. Their triggers distinguish chronic deterioration from a system beginning to transmit shocks faster than it can repair them.
+
+| Scenario | Required development | Consequence to investigate |
+|---|---|---|
+| 1. Debt-energy-AI squeeze | Debt and energy become Acute while labor pressure and household depletion persist | Bills and debt service consume more income as exposed work becomes less secure |
+| 2. Credit freeze | Property distress becomes clustered bank stress and tighter credit | Small-business financing contracts, income falls, and delinquencies feed further tightening |
+| 3. External shocks compound | Hormuz disruption persists or deepens alongside another supply shock | Input costs, margins, real income, and policy response deteriorate together |
+| 4. Demographic service pressure | Demonstrated shortages in care, trades, logistics, or other essential work | Service inflation and household care burdens make relief harder |
+| 5. Ugly muddle-through | Deadlines are patched and institutions remain functional while household pressure persists | More private adaptation buys another period of tolerable aggregate performance |
+| 6. Insurance and tax ratchet | Renewals, reassessments, and escrow adjustments increase costs | Housing consumes more income, encouraging debt use and deferred spending |
+| 7. Policy delay | Institutional waiting or disruption slows a needed response | An existing squeeze lasts longer and consumes more of the remaining cushion |
+| 8. Policy-and-credit cascade | Sustained supply inflation, a restrictive policy shock, and observed credit transmission interact | A second Acute loop reinforces the external shock |
+
+**Scenario 5 remains the modal case in the diagnostic. Scenario 6 is a co-modal mechanism within it. Scenario 8 is a conditional tail.** These are qualitative rankings, with no numerical probabilities supplied.
+
+The modal scenario asks very little of the imagination. Institutions make enough repairs to keep operating. Households make enough sacrifices to keep paying. Fixed costs remain high. Selective restructuring continues. The next quarter begins with less room than the last one.
+
+A society can spend years becoming harder to live in without producing a single event dramatic enough to end the argument about whether things are actually getting worse.
+
+“Manageable” can become an indefinitely renewable demand on the people doing the managing.
+
+### 13. The evidence that has to be allowed to spoil the doom
+
+The source's strongest discipline is its willingness to record relief. The August update reduced the near-term cascade case for concrete reasons:
+
+- June headline CPI fell 0.4% month over month; July rose only 0.1%, with annual inflation at 3.4%.
+- National electricity inflation slowed for another observed print.
+- Aggregate household delinquency eased, with mixed serious flows across products.
+- July announced layoffs reached a two-year low and hiring plans improved.
+- Office CMBS delinquency remained below its January record, while the sampled bank evidence did not verify systemic transmission.
+- Both chambers acted early on funding, weakening the assumed October disruption path.
+- The universal student-loan deadline was corrected, and the shortened federal ACA enrollment window was vacated, subject to continuing litigation.
+
+These developments reduce specific risks. They cannot be relabeled as sinister merely because that would improve the atmosphere.
+
+The broader depletion thesis should weaken if real wages improve for exposed households, savings recover, essential-expense borrowing declines, utility and insurance pressure moderates, and deferred care and reliance on family support ease. It should also weaken if AI gains appear in household income and lower costs, shipping stabilizes durably, and property losses remain contained.
+
+A September hold would remove the hike-specific version of the September trigger. The broader restrictive-policy scenario would still need its own observed gates. Missing gates break the cascade claim.
+
+Keep enough of the dashboard pointed toward recovery that recovery could actually register.
+
+### 14. The part that should stay with you
+
+The August evidence supports a broad, persistent squeeze with one Acute external shock and an unconfirmed path to a second. The update made imminent escalation less convincing. It left prolonged depletion as the leading concern.
+
+That gives the doomer reading a precise center of gravity: an economy can preserve its own continuity by drawing down the continuity of ordinary lives.
+
+The emergency fund becomes groceries. The weekend becomes another shift. The dental appointment becomes “next year.” The parent becomes the childcare plan. The repair becomes a noise you learn to drive with. Another month closes successfully.
+
+There are limits to that kind of adaptation. The evidence does not tell us exactly where they are, how evenly they are distributed, or whether the next shock will reach them. Some households recover. Some indicators improve. Repair channels remain open.
+
+The question is how much those channels restore before another demand arrives.
+
+Watch the remaining margin: money left after essentials, savings that are actually replenishing, debt that no longer finances groceries, care people can afford to receive, time that is available for rest. Watch whether an apparent stabilization returns anything to the people who financed it.
+
+Until then, the Maintenance Trap remains a plausible description of the bargain: the system gets another quarter, and exposed households put up more of their future as collateral.
+
+The autopay clears.
+
+The dashboard records another successful payment.
+
+Somewhere, the car is making that noise again.
+
+bloop.
+
+### Source trail
+
+Links retained from the supplied v2.4 source appendix. This edition keeps that document's August 17, 2026 evidence cutoff; live pages may subsequently change.
+
+- **FOMC:** [Federal Reserve calendar](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)
+- **Fed:** [FOMC statement](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm) · [Dated market report](https://www.kiplinger.com/investing/economy/cpi-report-july-2026-what-to-expect) · [CME methodology/live tool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
+- **CPI and wages:** [BLS CPI](https://www.bls.gov/news.release/cpi.nr0.htm) · [BLS real earnings](https://www.bls.gov/news.release/realer.t01.htm)
+- **Labor:** [BLS Employment Situation](https://www.bls.gov/news.release/empsit.nr0.htm) · [Challenger July report](https://www.challengergray.com/blog/challenger-report-layoffs-fall-hiring-picks-up-ai-leads-for-fifth-straight-month/) · [NY Fed recent-graduate dashboard](https://www.newyorkfed.org/research/college-labor-market)
+- **Electricity:** [EIA national table](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_03) · [EIA state table](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_06_a) · [Release overview](https://www.eia.gov/electricity/monthly/update/report-overview.php)
+- **Household debt:** [NY Fed Q2 report](https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/HHDC_2026Q2) · [Achieve survey](https://www.achieve.com/about/press/53-of-americans-carry-credit-card-balances-to-cover-essential-living-expenses-achieve-survey-finds)
+- **Student loans:** [Education Department](https://www.ed.gov/about/news/press-release/us-department-of-education-announces-next-steps-borrowers-enrolled-unlawful-save-plan) · [MOHELA schedule/FAQ](https://mohela.studentaid.gov/DL/resourceCenter/SAVEPlanFaq.aspx)
+- **ACA:** [KFF state enrollment analysis](https://www.kff.org/affordable-care-act/how-has-aca-marketplace-enrollment-changed-across-states-in-2026/) · [KFF premium/deductible analysis](https://www.kff.org/affordable-care-act/what-we-know-so-far-about-2026-aca-marketplace-enrollment-premiums-and-deductibles/) · [Peterson-KFF rate update](https://www.healthsystemtracker.org/brief/how-much-and-why-aca-marketplace-premiums-are-going-up-in-2027/) · [June judgment](https://law.justia.com/cases/federal/district-courts/maryland/mddce/1%3A2025cv02114/585385/73/) · [Litigation tracker](https://litigationtracker.law.georgetown.edu/issues/marketplace-rules/)
+- **Hormuz:** [IMO incident log](https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx) · [AP, August 15](https://apnews.com/article/iran-israel-lebanon-uae-us-hormuz-august-15-2026-ba738b9fb8803f28313a19df8bbcac19) · [AP, August 17](https://apnews.com/article/iran-us-israel-lebanon-gaza-hormuz-august-17-2026-53ae10812e472a4e5bb228b9f318a5fc) · [AP markets](https://apnews.com/article/bf398d5a01f611921c0b48a8bfc884d9)
+- **Fiscal:** [House committee status](https://appropriations.house.gov/news/press-releases/committee-takes-proactive-step-prevent-partisan-shutdown-protect-full-year) · [House passage](https://appropriations.house.gov/news/press-releases/house-passes-hr-9770-providing-certainty-preventing-disruption-and-advancing) · [AP Senate report](https://apnews.com/article/a50b86875105a299498b846184a3736d)
+- **CRE and banks:** [Trepp July delinquency report](https://www.trepp.com/trepptalk/cmbs-delinquency-report-july-2026) · [Trepp hard-maturities report](https://www.trepp.com/trepptalk/july-2026-cmbs-hard-maturities) · [Regions Q2 release](https://s202.q4cdn.com/476346942/files/doc_financials/2026/q2/2Q26-Press-Release_Website.pdf) · [FDIC 2026 failures](https://www.fdic.gov/resources/resolutions/bank-failures/in-brief/2026)
+- **Escrow/insurance:** [Summary of Cotality projection](https://wtop.com/news/2026/07/what-is-an-escrow-shortage-why-your-mortgage-payment-just-went-up/) · [Survey report](https://www.housingwire.com/articles/mortgage-escrow-payment-increase-survey/) · [Cotality property-tax update](https://www.cotality.com/resources/article/property-taxes-are-reshaping-servicing-operations) · [Insurify projection](https://insurify.com/homeowners-insurance/report/home-insurance-price-projections/)
+- **AI price level:** [Federal Reserve note](https://www.federalreserve.gov/econres/notes/feds-notes/measurement-of-computer-software-and-accessories-inflation-20260522.html) · [Federal Reserve MPR](https://www.federalreserve.gov/monetarypolicy/2026-07-mpr-part1.htm)

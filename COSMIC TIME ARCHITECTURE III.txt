@@ -1,0 +1,2346 @@
+COSMIC TIME ARCHITECTURE III
+Witness-Relative Recurrence Geometry, Timekeeper Audit, and the Weave
+Status: Current synthesis / exploratory methods architecture
+Lineage: Descendant of Cosmic Time Part 2; does not overwrite it
+License: CC0 — Public Domain — No rights reserved
+Version: v0.6 — typed temporal consequences / address-continuity patch
+Date: August 2026
+The old document asked whether the sky was forming a coherent pattern.
+The current architecture asks a harder question:
+What exactly recurs, under which witness, according to which clock, and what survives when the interpretation is removed?
+
+0. Provenance Rule — Keep the Old Receipt
+Cosmic Time Part 2 remains part of the record.
+It contained several productive intuitions:
+planetary configurations should be studied dynamically rather than as isolated pictures;
+recurrence may matter more than static alignment;
+toroidal and interference-like representations can reveal structure hidden by linear plots;
+several clocks or cycles may overlap without being identical;
+geometry should eventually produce falsifiable predictions.
+It also combined several layers too quickly:
+[
+\text{geometry}
+\rightarrow
+\text{coherence}
+\rightarrow
+\text{physical field}
+\rightarrow
+\text{historical meaning}
+\rightarrow
+\text{biological or cultural effect}.
+]
+The present document separates those layers.
+Nothing below retroactively changes what the earlier document said.
+The old route remains visible.
+The current architecture is a new route.
+
+1. Governing Separation
+The first law is:
+[
+\boxed{
+\text{geometry}
+\neq
+\text{mechanism}
+\neq
+\text{history}
+\neq
+\text{symbolism}
+}
+]
+These domains may be compared.
+They may not silently certify one another.
+Likewise:
+[
+\boxed{
+\text{timing coincidence}
+\neq
+\text{shared phase mechanism}
+}
+]
+and:
+[
+\boxed{
+\text{phase proximity}
+\neq
+\text{phase lock}
+\neq
+\text{functional recurrence}.
+}
+]
+A near alignment is an observation.
+A stable relative phase is a stronger mathematical property.
+A reproducible alteration in winding, return, episode structure, or another frozen observable is the point at which a relation begins performing measurable mathematical work.
+
+2. Timekeeper Is an Audit of Clocks
+Timekeeper is not treated here as a hidden scheduler, prophetic entity, sacred calendar, or demonstrated physical controller.
+Its current function is methodological:
+[
+\boxed{
+\text{Timekeeper audits the clocks.}
+}
+]
+Every timing claim begins by identifying the clock being discussed.
+A clock may be:
+an orbital cycle;
+a calendar;
+a publication date;
+an observational timestamp;
+a recurrence interval;
+a ritual date;
+an institutional deadline;
+a mathematical phase variable;
+a model parameter.
+For every clock, ask:
+TK-1 — Name the clock
+What is actually changing?
+TK-2 — Identify custody
+Where did the timestamp, phase, frequency, interval, threshold, or parameter come from?
+TK-3 — Start with convergence
+Assume ordinary convergence before introducing common control or extraordinary coupling.
+TK-4 — Require a bridge
+A repeated number, near alignment, symbolic correspondence, or common date does not establish a shared mechanism.
+TK-5 — Require an observable consequence
+If a proposed parameter matters dynamically, it must change something measurable.
+TK-6 — Preserve unresolved states
+A result may remain:
+[
+\boxed{\text{unknown}}
+]
+without being promoted to either proof or disproof.
+
+3. Name the Phases
+The word phase is not used metaphorically without a variable.
+For each modeled clock:
+[
+\theta_i(t)
+]
+denotes its phase,
+[
+\omega_i=\dot{\theta}_i
+]
+its natural phase velocity, and
+[
+\delta_i
+]
+a declared offset or detuning when one exists.
+The simplest three-clock comparator is:
+[
+\omega_1=\omega,
+]
+[
+\omega_2=\omega,
+]
+[
+\omega_3=\omega+\delta.
+]
+The null model begins with:
+[
+\boxed{\delta=0}.
+]
+The detuned model uses a frozen:
+[
+\boxed{\delta\neq0}
+]
+whose source is recorded before the result is inspected.
+No retuning after seeing the output.
+The quantities \omega_i and \delta in this comparator are model parameters. They are not identified with ephemeris-derived orbital rates without an explicit source-to-phase constructor.
+
+
+4. Fibers → Thread → Weave
+The current exploratory number architecture contains three distinct mathematical fibers.
+Fiber A — Prime / Factor
+Exact arithmetic identities.
+Examples include the 37 / 111 / 222 family and related factor structures.
+Fiber B — Fibonacci / Lucas
+Exact recurrence identities such as:
+[
+21=F_8,
+]
+[
+89=F_{11},
+]
+[
+322=L_{12}.
+]
+Fiber C — Quadratic-Irrational / Detuning
+Relations involving irrational scales such as:
+[
+1+\sqrt2
+]
+are retained as candidate incommensurate or detuned structures where justified.
+Near-hits remain near-hits.
+They are not silently converted into identities.
+The descriptive progression is:
+[
+\boxed{
+\text{fiber}
+\rightarrow
+\text{thread}
+\rightarrow
+\text{weave}
+}
+]
+A fiber is an internal mathematical structure.
+A thread is that structure given explicit phase evolution:
+[
+\theta_i(t).
+]
+A weave is the changing relationship among several threads:
+\left(
+\theta_1(t),
+\theta_2(t),
+\theta_3(t)
+\right).
+]
+The weave has three phase coordinates but only two independent relative coordinates. Define the relative-phase quotient:
+[
+\rho_{\mathrm{rel}}:T^3\longrightarrow T^2,
+\qquad
+(\theta_1,\theta_2,\theta_3)
+\longmapsto
+(\theta_2-\theta_1,\theta_3-\theta_1).
+]
+Write:
+[
+\boldsymbol\varphi
+=
+(\theta_2-\theta_1,\theta_3-\theta_1)
+\in T^2.
+]
+The remaining pairwise difference is derived:
+[
+\theta_3-\theta_2=\varphi_2-\varphi_1,
+\qquad
+(\theta_2-\theta_1)+(\theta_3-\theta_2)+(\theta_1-\theta_3)
+=
+0\pmod{2\pi}.
+]
+This quotient erases the diagonal common rotation. Absolute phase remains in the raw record whenever the selected witness needs it.
+
+The object of study is no longer:
+Why does this number resemble that number?
+It becomes:
+Under what declared dynamics do several strands repeatedly return to the same structural neighborhood?
+
+5. Lock Does Not Mean Identity
+A coupled comparator may be written:
+[
+\dot{\theta}_i
+=
+\omega_i+\frac{K}{3}\sum_j\sin(\theta_j-\theta_i).
+]
+This is an exploratory weave comparator M_{\mathrm{weave}}, not a claim that planets obey this coupling or that the coupling is physical.
+
+For clock-state interpretation, the comparator separates the surviving collective phase from the relative state:
+
+[
+\dot\Theta=\Omega(\boldsymbol\varphi;\mu),
+\qquad
+\dot{\boldsymbol\varphi}=F(\boldsymbol\varphi;\mu).
+]
+
+The relative state \boldsymbol\varphi diagnoses whether the gears are locked, slipping, or wandering. The surviving collective phase \Theta carries the hand. Therefore:
+
+[
+\boxed{
+\text{relative phase diagnoses the gears;}
+\qquad
+\text{collective phase carries the hand.}
+}
+]
+
+A recurrence, crossing, slip, lock, and tick are different event classes. A tick requires its own declared hand and oriented crossing rule; a slip is a change in lifted relative winding; a lock is confinement in the declared stable basin. No one may be silently substituted for another.
+
+Phase locking does not require:
+[
+\theta_1=\theta_2=\theta_3.
+]
+It requires stable relative phases.
+Because §17 scores winding, the history witness must be attached through the lifted path rather than treated as an independent instantaneous coordinate. Let \mathcal X_{\mathrm{raw}} be the declared source-state space and let \rho_{\mathrm{rel}}:\mathcal X_{\mathrm{raw}}\to T^2 be the relative-phase readout. The geometry-corrected lifted state is:
+[
+\widehat{\mathcal X}_{\mathrm{weave}}
+=
+\mathcal X_{\mathrm{raw}}\times_{T^2}\mathbb R^2.
+]
+After an initial lift is chosen, each continuous trajectory lifts uniquely to \widetilde{\boldsymbol\varphi}(t)\in\mathbb R^2, with deck history:
+[
+\mathbf m_{\mathrm{weave}}(t)\in\mathbb Z^2.
+]
+This weave winding is distinct from the field protocol's gauge register:
+[
+W_{\mathrm{gauge}}\in\mathbb Z^3,
+\qquad
+q_{\mathrm{gauge}}=W_{\mathrm{gauge}}\bmod2.
+]
+No map between them is assumed without an explicit constructor.
+For this comparator, lock means confinement of \boldsymbol\varphi to a declared basin or neighborhood of a stable relative equilibrium. A slip is a declared event with \Delta\mathbf m_{\mathrm{weave}}\neq0. A separatrix crossing may be scored only when a saddle and its stable manifold have actually been reconstructed.
+Therefore:
+[
+\boxed{
+\text{lock without identity}
+}
+]
+is allowed.
+So is:
+[
+\boxed{
+\text{return without repetition}.
+}
+]
+This is important for cosmic recurrence.
+A system need not reproduce an entire previous sky in order for a specified module to recur.
+Whole-state identity and modular recurrence are different claims.
+
+6. Shared Lattice
+The Omnibus lattice notation supplies a useful architectural language:
+[
+(O,S)\subset\Lambda.
+]
+For Cosmic Time Architecture this is used only as an architectural analogy, not as evidence that the Omnibus domains are physical planetary objects.
+The transferable principle is:
+[
+\boxed{
+\text{shared geometry does not require a hidden intermediary}.
+}
+]
+Let:
+[
+\Lambda(t)
+]
+denote the declared state or coupling space in which the modeled clocks are compared.
+The lattice may encode:
+neighborhood;
+topology;
+angular separation;
+route;
+orientation;
+boundary;
+admissible recurrence;
+witness accessibility.
+It does not itself become an agent.
+It does not interpret the sky.
+It does not manufacture causation.
+The lattice supports the comparison.
+The lattice does not rule the comparison.
+
+7. Witness-Relative Recurrence
+There is no meaningful statement that something simply “recurs.”
+One must specify:
+[
+\boxed{\text{recurs under which witness?}}
+]
+Useful witness classes use \mathcal V. The symbol W remains reserved for the field-gauge winding register. The classes are:
+
+(\mathcal V_{\mathrm{DIR}})
+Directed or signed geometry.
+Retains handedness and orientation.
+(\mathcal V_{\mathrm{SHELL}})
+Orientation-forgetting shell geometry.
+More permissive than the directed witness.
+(\mathcal V_{\mathrm{HIST}})
+Historical comparison.
+Kept separate from geometry until the geometric result is frozen.
+(\mathcal V_{\mathrm{SYM}})
+Symbolic or mythic interpretation.
+Allowed to generate questions and meaning.
+Not allowed to export evidence backward into the empirical geometry.
+Thus:
+[
+x\sim_{\mathcal V}y
+]
+means only that (x) and (y) are indistinguishable to witness (\mathcal V).
+It does not mean the source states are identical.
+
+8. The Hidden Quotient
+Every transformation may erase information.
+The Timekeeper pipeline is therefore recorded as:
+[
+\boxed{
+\text{RAW}
+\rightarrow
+\text{relative geometry}
+\rightarrow
+\text{witness}
+\rightarrow
+\text{module}
+\rightarrow
+\text{episode}
+\rightarrow
+\text{historical join}
+\rightarrow
+\text{symbolic interpretation}
+}
+]
+Each arrow must remain visible.
+A useful operational form is:
+[
+P_0
+\rightarrow
+P_c
+\rightarrow
+O_{\mathcal V}
+\rightarrow
+R
+\rightarrow
+D
+\rightarrow
+Y.
+]
+The governing rule is:
+[
+\boxed{
+\text{record the map at the layer where information is lost}.
+}
+]
+Therefore:
+[
+\boxed{
+\text{raw source}
+\neq
+\text{derived view}
+\neq
+\text{detected recurrence}
+\neq
+\text{historical association}
+\neq
+\text{symbolic meaning}.
+}
+]
+No downstream equality may impersonate an upstream equality.
+
+9. Immutable Witness Rule
+The raw record remains immutable.
+For astronomical work:
+{\lambda_i(t),\text{timestamp},\text{frame},\text{source}}.
+]
+Derived witnesses become separate objects:
+[
+\texttt{VIEW}_{DIR},
+]
+[
+\texttt{VIEW}_{SHELL},
+]
+[
+\texttt{VIEW}_{MODULE},
+]
+[
+\texttt{VIEW}_{HIST},
+]
+[
+\texttt{VIEW}_{SYM}.
+]
+A transformed representation never replaces the source.
+This matters because unsigned angular distance may erase handedness, normalization may erase magnitude, module detection may erase unused geometry, and historical coding may erase uncertainty in event timing.
+Every quotient has a cost.
+The cost must remain inspectable.
+
+10. Current Planetary Result
+The strongest current planetary finding is narrower than the original Cosmic Time thesis and considerably more defensible.
+Under the frozen recurrence architecture:
+[
+\boxed{\text{MODULE RECURRENCE: YES}}
+]
+[
+\boxed{\text{EPISODE STRUCTURE: YES}}
+]
+[
+\boxed{\text{HANDEDNESS MATTERS}}
+]
+while:
+[
+\boxed{
+\text{GLOBAL EXCESS SYNCHRONIZATION: NOT SHOWN}.
+}
+]
+These status lines are result summaries, not self-authenticating evidence. Each frozen result must point to a provenance record containing the source ephemeris and coordinate frame, body set, time interval, module dictionary, witness definition, tolerances, orientation rule, code version, run identifier, and null specification. Until those pointers are attached, this document records the result status but does not itself identify the complete reproduction package.
+This means individual declared planetary modules can recur with high geometric precision.
+Those recurrences can organize into finite-duration episodes.
+Orientation-sensitive and orientation-forgetting witnesses do not produce identical recurrence sets.
+But the current null comparison does not establish that multiple module families synchronize globally more than expected.
+That negative result is part of the architecture.
+It is not a failure to be hidden.
+
+11. Return Is the Primary Object
+The old Cosmic Time language often emphasized alignment or coherence.
+The newer architecture emphasizes:
+[
+\boxed{\text{return}}
+]
+under a declared witness.
+Return does not imply full-state repetition.
+Return may mean:
+[
+D_C(t)<\epsilon
+]
+for a declared module (C),
+or return to a defined neighborhood in relative phase space.
+Therefore:
+[
+\boxed{
+\text{same module}
+\neq
+\text{same sky}
+}
+]
+and:
+[
+\boxed{
+\text{same geometry}
+\neq
+\text{same historical circumstance}.
+}
+]
+A recurrence episode is a geometrical object first.
+Everything else is joined later.
+
+12. The 43 / 21.5 Legacy
+The earlier ~43-day and ~21.5-day architecture remains historically important but is not retained as a detected cosmic periodicity.
+The arithmetic construction:
+[
+\frac{\text{Mars–Jupiter synodic interval}}{19}
+\approx42.97\text{ days}
+]
+may be preserved as arithmetic.
+It is not equivalent to an observed 43-day signal.
+Likewise approximately half of that quotient may be computed arithmetically.
+That does not make 21.5 days a conjunction-to-opposition interval.
+Most importantly:
+[
+\boxed{\text{days}\neq\text{degrees}}.
+]
+A numerical resemblance such as:
+[
+43\text{ days}
+\quad\text{versus}\quad
+43.2^\circ
+]
+does not create an equivalence.
+Changing units requires an explicit constructor.
+The receipts stay.
+The unit laundering does not.
+
+13. Physical Interpretation Boundary
+The recurrence geometry does not require an electromagnetic mechanism.
+The current order is:
+[
+\boxed{
+\text{relative phase geometry}
+\rightarrow
+\text{module recurrence}
+\rightarrow
+\text{episode structure}
+}
+]
+before any physical interpretation is added.
+This architecture does not supply D1 physical-time evolution or a field-clock tick gate. If a future crosswalk invokes the field clock, the complete D1 state and its load-bearing R_\Phi, \widetilde{\Theta}_\Phi, and \Omega_\Phi witnesses must be carried through. Astronomical recurrence geometry does not replace them.
+A future physical layer might take the form:
+[
+\text{geometry}
+\rightarrow
+\text{candidate coupling}
+\rightarrow
+\text{measured physical observable}.
+]
+But such a layer requires independent quantities such as:
+solar-wind state;
+heliospheric magnetic-field orientation;
+magnetospheric topology;
+plasma environment;
+propagation delay;
+body-specific magnetic response;
+a declared coupling functional.
+Known magnetospheres, plasma environments, or electromagnetic phenomena do not by themselves establish the proposed cross-planetary coupling.
+Likewise no current result establishes:
+biological synchronization;
+collective consciousness coupling;
+prophetic signaling;
+historical causation;
+elemental production by planetary interference.
+Those remain separate hypotheses unless separately tested.
+
+14. Historical and Symbolic Lanes
+Historical correspondence may be studied only after geometry is frozen.
+The clean order is:
+[
+\boxed{
+\text{geometry first}
+\rightarrow
+\text{freeze}
+\rightarrow
+\text{history second}.
+}
+]
+A same-date event may be real.
+It remains:
+[
+\boxed{\text{temporal adjacency}}
+]
+until stronger evidence exists.
+A symbolic correspondence may also be real as symbolism.
+That lives under:
+[
+\mathcal V_{\mathrm{SYM}}.
+]
+The symbolic room is not invalid.
+It is simply answering a different question.
+Meaning does not become mechanism merely because the meaning is interesting.
+
+15. Freeze Protocol
+Before interpreting a new recurrence claim:
+freeze the bodies;
+freeze the time interval;
+freeze the coordinate frame;
+freeze the witness;
+freeze the module dictionary;
+freeze tolerances;
+freeze orientation rules;
+freeze scoring equations;
+compute geometry without event labels;
+freeze recurrence peaks or episodes;
+only afterward join history or symbolism.
+No silent architecture change.
+No threshold tuning after seeing the desired event.
+No historical name inside the geometric ledger.
+No symbolic node tuning the empirical detector.
+
+16. Parameter Custody
+Every parameter receives a provenance class:
+[
+\boxed{
+\begin{array}{l}
+\text{source-given}\
+\text{exact-derived}\
+\text{legacy parameter}\
+\text{exploratory parameter}\
+\text{fitted parameter}\
+\text{arbitrary control}
+\end{array}
+}
+]
+This applies equally to:
+astronomical timestamps;
+number-lattice constants;
+detuning parameters;
+recurrence tolerances;
+model coupling constants;
+historical windows.
+A parameter may be useful without being natural.
+A number may be interesting without being fundamental.
+Custody comes before interpretation.
+
+17. Current Experimental Question
+The strongest unresolved weave question is:
+[
+\boxed{
+\text{Does one frozen detuned strand create a reproducible return geometry?}
+}
+]
+The experiment compares:
+[
+\delta=0
+]
+against:
+[
+\delta\neq0.
+]
+For the three-strand comparison, the measured relative state is \boldsymbol\varphi\in T^2 and its lifted history \mathbf m_{\mathrm{weave}}\in\mathbb Z^2; it is not the field-gauge register.
+Measure:
+return period;
+lifted weave winding \mathbf m_{\mathrm{weave}}\in\mathbb Z^2 and signed increments;
+beat period;
+stable relative phase;
+collective overlap;
+lock/slip events under the declared scoring rules.
+The detuning earns architectural status only if it produces a reproducible downstream difference.
+Otherwise it remains an interesting number relation.
+
+The experiment should therefore record not only whether detuning changes return statistics, but which bifurcation surface is crossed, in which direction, and what state follows. Under the declared comparator:
+
+[
+\boxed{
+\text{same law}
+\neq
+\text{same quotient}
+\neq
+\text{same bifurcation}
+\neq
+\text{same clock}.
+}
+]
+
+A change in recurrence alone does not identify the route into or out of coherence.
+
+That is enough.
+
+18. Current Compression
+The modern architecture can be compressed as:
+[
+\boxed{
+\text{Name the clocks.}
+}
+]
+[
+\boxed{
+\text{Preserve the raw state.}
+}
+]
+[
+\boxed{
+\text{Declare the witness.}
+}
+]
+[
+\boxed{
+\text{Track every quotient.}
+}
+]
+[
+\boxed{
+\text{Start with convergence as null.}
+}
+]
+[
+\boxed{
+\text{Measure recurrence before interpreting it.}
+}
+]
+[
+\boxed{
+\text{Freeze geometry before opening history.}
+}
+]
+[
+\boxed{
+\text{Keep symbolism symbolic until a bridge earns promotion.}
+}
+]
+The old architecture searched for a cosmic clock.
+The current architecture studies a family of clocks.
+The old architecture asked whether everything was converging.
+The current architecture asks which relations recur, which witnesses preserve them, which distinctions disappear, and whether any proposed offset actually changes the weave.
+That is the current Timekeeper blade:
+[
+\boxed{
+\textbf{Timekeeper audits the clocks.}
+}
+]
+[
+\boxed{
+\textbf{The weave tests what the clocks do together.}
+}
+]
+[
+\boxed{
+\textbf{Recurrence is witness-relative.}
+}
+]
+[
+\boxed{
+\textbf{Return does not require repetition.}
+}
+]
+[
+\boxed{
+\textbf{Interesting geometry gets to survive without pretending it has already explained the universe.}
+}
+]
+
+
+19. Promotion Ladder — How a Pattern Earns More Meaning
+
+Not every interesting relation deserves the same status.
+
+Timekeeper therefore uses a staged promotion rule.
+
+A claim may move upward only when the obligations of the next layer are independently satisfied.
+
+The ladder is:
+
+[
+\boxed{
+\text{observation}
+\rightarrow
+\text{recurrence}
+\rightarrow
+\text{episode}
+\rightarrow
+\text{enrichment}
+\rightarrow
+\text{mechanism}
+\rightarrow
+\text{interpretation}
+}
+]
+
+No rung may borrow evidence from a higher rung in order to justify itself.
+
+---
+
+Level 0 — Observation
+
+A relation has been noticed.
+
+Examples:
+
+- two angles are close;
+- a number repeats;
+- several bodies form a visually interesting configuration;
+- a date lies near a recurrence peak;
+- two mathematical constructions return similar values.
+
+The permitted claim is:
+
+[
+\boxed{\text{this relation was observed}.}
+]
+
+Nothing more is implied.
+
+Similarity is not identity.
+
+Adjacency is not coupling.
+
+Recognition is not mechanism.
+
+---
+
+Level 1 — Reproducible Recurrence
+
+The relation survives a declared witness, tolerance, source, and scoring rule.
+
+For a module C:
+
+[
+D_C(t)<\epsilon.
+]
+
+The recurrence must survive re-execution from the frozen source data.
+
+The permitted claim becomes:
+
+[
+\boxed{
+\text{this declared structure recurs under witness }\mathcal V.
+}
+]
+
+This still does not establish unusual frequency, common control, or physical causation.
+
+---
+
+Level 2 — Episode Structure
+
+Individual recurrence points form a stable temporal object.
+
+Rather than isolated dates:
+
+[
+t_1,t_2,t_3,\ldots
+]
+
+the architecture detects a connected recurrence window:
+
+[
+E_k=[t_a,t_b].
+]
+
+This permits:
+
+[
+\boxed{
+\text{the recurrent geometry forms finite-duration episodes}.
+}
+]
+
+An episode is not yet an event explanation.
+
+Its boundaries belong to geometry first.
+
+Historical labels remain outside the episode ledger.
+
+---
+
+Level 3 — Statistical Enrichment
+
+The observed recurrence or episode structure exceeds an appropriate frozen null.
+
+The relevant question is no longer:
+
+«Did it happen?»
+
+but:
+
+«Did it happen more often, more precisely, more persistently, or in a more structured way than the null predicts?»
+
+Possible nulls include:
+
+- randomized phases;
+- translated windows;
+- matched-rate controls;
+- shuffled labels;
+- randomized module families;
+- alternative witnesses;
+- simpler recurrence models.
+
+Promotion requires the chosen statistic and null to be specified before interpretation.
+
+If the null survives, the result stays below this rung.
+
+Thus the current planetary result:
+
+[
+\boxed{\text{module recurrence: yes}}
+]
+
+does not automatically imply:
+
+[
+\boxed{\text{global excess synchronization: yes}}.
+]
+
+A negative null result is retained as evidence.
+
+The ladder does not move merely because the pattern is beautiful.
+
+---
+
+Level 4 — Candidate Mechanism
+
+A mechanism requires a constructor linking the geometry to a separately measurable physical process.
+
+The architecture must specify something like:
+
+[
+\mathcal M:
+\text{geometric state}
+\rightarrow
+\text{physical observable}.
+]
+
+A serious mechanism therefore requires:
+
+- identified state variables;
+- units;
+- propagation assumptions;
+- coupling strength;
+- directionality;
+- latency;
+- boundary conditions;
+- predicted measurable consequences.
+
+For electromagnetic proposals, relevant measurements might include solar-wind state, magnetic-field orientation, plasma conditions, magnetospheric response, or another independently recorded physical observable.
+
+Merely knowing that electromagnetic structures exist does not supply \mathcal M.
+
+Geometry does not promote itself into physics.
+
+---
+
+Level 5 — Cross-Domain Interpretation
+
+Historical, biological, social, psychological, or symbolic interpretation is a further layer.
+
+The claim:
+
+[
+\text{geometry recurs}
+]
+
+does not by itself imply:
+
+[
+\text{history responds}.
+]
+
+Likewise:
+
+[
+\text{history overlaps}
+]
+
+does not imply:
+
+[
+\text{history was caused}.
+]
+
+Historical analysis requires its own frozen source universe, event definitions, timing precision, missingness rules, multiplicity treatment, and null model.
+
+Symbolic interpretation may remain meaningful without entering this evidentiary chain at all.
+
+Its status is:
+
+[
+\boxed{
+\mathcal V_{\mathrm{SYM}}\text{ may interpret; it may not certify.}
+}
+]
+
+---
+
+No Elevator Rule
+
+The promotion ladder has no elevator.
+
+One may not move directly from:
+
+[
+\text{number resemblance}
+]
+
+to:
+
+[
+\text{universal constant},
+]
+
+from:
+
+[
+\text{planetary geometry}
+]
+
+to:
+
+[
+\text{electromagnetic circuit},
+]
+
+or from:
+
+[
+\text{date overlap}
+]
+
+to:
+
+[
+\text{historical causation}.
+]
+
+Every intermediate bridge must exist independently.
+
+Therefore:
+
+[
+\boxed{
+L_n\not\Rightarrow L_{n+1}.
+}
+]
+
+Promotion requires new evidence.
+
+Restatement does not count as new evidence.
+
+More examples do not automatically count as new evidence.
+
+A prettier visualization does not count as new evidence.
+
+A repeated interpretation does not count as new evidence.
+
+---
+
+Demotion Is Valid
+
+Claims may also move downward.
+
+If a new witness destroys a recurrence,
+
+if a holdout fails,
+
+if a source proves unreliable,
+
+if an apparent constant changes under corrected units,
+
+if a historical association disappears after multiplicity correction,
+
+or if a proposed mechanism produces no predicted observable,
+
+the correct operation is:
+
+[
+\boxed{\text{demote the claim}.}
+]
+
+Demotion is not deletion.
+
+The receipt remains.
+
+The previous hypothesis remains part of the development history.
+
+Its current evidentiary status changes.
+
+---
+
+Promotion Checksum
+
+Before strengthening any Timekeeper claim, ask:
+
+1. What rung is this claim currently on?
+2. What new evidence permits the next rung?
+3. Which witness produced the result?
+4. Which distinctions did that witness erase?
+5. What null was tested?
+6. What would have prevented promotion?
+7. Did any unit, threshold, source, or definition change?
+8. Is the proposed bridge measured or merely narrated?
+
+If those questions cannot be answered:
+
+[
+\boxed{\text{do not promote}.}
+]
+
+Keep the pattern.
+
+Keep the weirdness.
+
+Keep the receipt.
+
+But make the next layer earn its fucking badge.
+
+20. Witness Fidelity — How Far a Result May Speak
+
+A witness is not globally strong or weak.
+
+Its fidelity is relative to the claim being made.
+
+For a declared claim C and witness \mathcal V, use the governing rule:
+
+[
+\boxed{
+\operatorname{Precision}(C)
+\le
+\operatorname{Fidelity}(\mathcal V,C).
+}
+]
+
+Claim precision must not exceed the fidelity of the witness to the source distinction relevant to that claim.
+
+Witness evaluation keeps three properties separate:
+
+- fidelity — does the witness preserve the distinction relevant to this claim?
+- resolution — how finely can the witness distinguish among the relevant alternatives?
+- provenance strength — how directly is the witness bound to the source, event, transformation, or trajectory it purports to record?
+
+These properties do not form an authority ladder.
+
+[
+\boxed{
+\text{witness fidelity is claim-relative}
+\qquad
+\text{and}
+\qquad
+\text{fidelity}\neq\text{authority}.
+}
+]
+
+A witness may be strong for one proposition and weak for another.
+
+Thus \mathcal V_{\mathrm{DIR}} may support the claim that a directed module recurred without supporting the claim that a physical coupling caused the recurrence.
+
+\mathcal V_{\mathrm{SHELL}} may support shell recurrence while being unable to recover handedness already erased by its projection.
+
+\mathcal V_{\mathrm{HIST}} may establish that a frozen geometric episode overlaps a historical interval while remaining unable, by that fact alone, to establish historical causation.
+
+\mathcal V_{\mathrm{SYM}} may support symbolic interpretation without certifying an empirical mechanism.
+
+External Residual Witness
+
+When privileged source state is unavailable, observable discrimination may still be possible.
+
+Let a frozen observable pipeline be:
+
+[
+F:P\rightarrow Y.
+]
+
+Let conditions A and B induce source distributions \mu_A and \mu_B, with downstream pushforwards:
+
+[
+\nu_A=F_\#\mu_A,
+\qquad
+\nu_B=F_\#\mu_B.
+]
+
+For a preregistered distance, divergence, or test D, define:
+
+[
+\boxed{
+R_D(A,B)=D(\nu_A,\nu_B).
+}
+]
+
+If a reproducible nonzero residual survives the frozen evaluation plan, the permitted conclusion is narrow:
+
+[
+\boxed{
+\nu_A\neq\nu_B
+\Rightarrow
+A\text{ and }B\text{ are not observationally equivalent under }F.
+}
+]
+
+It does not follow that the hidden mechanism producing the difference has been identified.
+
+Likewise:
+
+[
+\boxed{
+\nu_A=\nu_B
+\not\Rightarrow
+\mu_A=\mu_B.
+}
+]
+
+Observable equality cannot reconstruct upstream equality.
+
+Self-Report Boundary
+
+A system description is itself an output view unless independently bound to retained provenance:
+
+[
+\boxed{
+\texttt{SYSTEM_REPORT}=\texttt{VIEW}
+\qquad
+\texttt{SYSTEM_REPORT}\neq\texttt{RAW}
+}
+]
+
+A component may accurately report what it says about its own memory, transformations, classifiers, controls, or hidden state while the implementation claim remains unverified.
+
+Timekeeper Witness Record
+
+For every promoted claim, retain at least:
+
+[
+(
+\text{claim},
+\text{relevant source distinction},
+\text{witness},
+\text{preserves},
+\text{loses},
+\text{resolution},
+\text{provenance strength}
+).
+]
+
+The operational rule is:
+
+[
+\boxed{
+\text{Let the witness say exactly what it can see — and no more.}
+}
+]
+
+Section 19 asks whether a claim has earned promotion.
+
+Section 20 asks whether the witness has enough fidelity to carry that promoted claim.
+
+Together:
+
+[
+\boxed{
+\text{promotion requires new evidence}
++
+\text{claim precision cannot exceed witness fidelity}.
+}
+]
+
+No source access does not mean no observable test.
+
+Observable discrimination does not mean source reconstruction.
+
+A strong witness does not become an authority merely because it is useful.
+
+Keep the witness when available.
+Test the residual when it is not.
+
+21. Temporal Authorization — When a Coordinate Becomes Binding
+
+The current Timekeeper excavation requires a further separation. Three objects that can all be called “time” must not be collapsed:
+
+[
+\boxed{
+T_{\mathrm{dyn}}
+\neq
+T_{\mathrm{addr}}
+\neq
+T_{\mathrm{bind}}
+}
+]
+
+where:
+
+[
+T_{\mathrm{dyn}}=\text{dynamical evolution, phase advance, return, and clock-hand behavior},
+]
+
+[
+T_{\mathrm{addr}}=\text{a temporal coordinate, recurrence address, calendrical position, or cycle location},
+]
+
+and:
+
+[
+T_{\mathrm{bind}}=\text{the rule and jurisdiction under which consequences are allowed to follow from an address}.
+]
+
+A physical or mathematical phase may evolve without becoming a calendrical address. A temporal address may exist without generating an obligation. A normative text may prescribe a consequence without demonstrating that an institution implemented it.
+
+Therefore:
+
+[
+\boxed{
+\text{clock state}
+\neq
+\text{temporal address}
+\neq
+\text{binding consequence}.
+}
+]
+
+Temporal Authorization Seam
+
+When a temporal representation is used to generate social, ritual, administrative, legal, or historical consequences, retain the full seam stack:
+
+[
+\boxed{
+\mathsf{Rep}
+\rightarrow
+\mathsf{Conv}
+\rightarrow
+Q
+\rightarrow
+J
+\rightarrow
+I
+}
+]
+
+with:
+
+[
+\mathsf{Rep}=\text{the representation or coordinate system},
+]
+
+[
+\mathsf{Conv}=\text{the declared conversion rule},
+]
+
+[
+Q=\text{the consequence generated by that conversion},
+]
+
+[
+J=\text{the person, group, office, or domain claimed to be bound by the consequence},
+]
+
+and:
+
+[
+I=\text{an implementation witness showing that the consequence was actually applied}.
+]
+
+The symbols \mathsf{Rep} and \mathsf{Conv} are used deliberately so this record does not recreate the abolished OMNIBUS R-layer by notation.
+
+Each arrow is a separate Open-Seam transition. Evidence for one arrow does not silently establish the next.
+
+Thus:
+
+[
+\boxed{
+\text{accuracy}\neq\text{authority}
+}
+]
+
+and:
+
+[
+\boxed{
+\text{textual normativity}\neq\text{institutional implementation}.
+}
+]
+
+The minimal clock/government thresholds are therefore:
+
+[
+\mathsf{Rep}\rightarrow\mathsf{Conv}
+]
+
+for technical usability;
+
+[
+\mathsf{Rep}\rightarrow\mathsf{Conv}\rightarrow Q
+]
+
+for a generated prescription, evaluation, address, or other consequence; and only when the jurisdiction and implementation seams are independently supported:
+
+[
+\mathsf{Rep}\rightarrow\mathsf{Conv}\rightarrow Q\rightarrow J\rightarrow I
+]
+
+may the record support a claim about functioning governance.
+
+The governing law is:
+
+[
+\boxed{
+\text{government does not begin when somebody calculates the coordinate;}
+}
+]
+
+it begins, for this architecture, when a consequence is demonstrably binding inside a functioning jurisdiction and there is an adequate implementation witness.
+
+Shared Address Space, Different Consumers
+
+A temporal grid may support several different converters without requiring one master office, one author, or one transmission path.
+
+Let:
+
+[
+G=\text{a declared ordered temporal grid}.
+]
+
+Then different consumers may implement:
+
+[
+G\xrightarrow{\mathsf{Conv}_1}Y_1,
+\qquad
+G\xrightarrow{\mathsf{Conv}_2}Y_2,
+\qquad
+G\xrightarrow{\mathsf{Conv}_3}Y_3.
+]
+
+Agreement at the address layer does not establish identity at the converter, consequence, jurisdiction, or institutional layer.
+
+Therefore:
+
+[
+\boxed{
+\text{same grid}\neq\text{same consumer}\neq\text{same route}.
+}
+]
+
+This gives a non-personal Timekeeper architecture: compatible artifacts may interoperate through a shared address space while different desks calculate, interpret, legislate, schedule, archive, or execute.
+
+Temporal Adapters
+
+Different clocks need not become identical or phase locked in order to interoperate. A declared harmonization map may relate their addresses while preserving the clocks as distinct objects.
+
+Schematically:
+
+[
+C_a\xrightarrow{\Sigma_{\mathrm{harm}}}C_b.
+]
+
+A higher-order cycle may therefore serve as an address adapter rather than as proof that the underlying cycles are one clock.
+
+The allowed law is:
+
+[
+\boxed{
+\text{harmonization}\neq\text{identity}\neq\text{phase lock}.
+}
+]
+
+Historical Address Resolution
+
+A temporal address may be structurally real while remaining insufficient for unique absolute dating. Let a surviving address be represented as:
+
+[
+A(e)=(c_1,c_2,\ldots,c_k).
+]
+
+Each retained coordinate narrows the candidate fiber. If several absolute dates remain compatible with the surviving address, the witness does not contain enough resolution to select one.
+
+Therefore:
+
+[
+\boxed{
+\text{absolute chronology}
+=
+\text{internal address resolution}
++
+\text{independent external anchor}
+}
+]
+
+where the equality names the evidentiary construction, not an arithmetic identity.
+
+This is a direct application of witness fidelity:
+
+[
+\boxed{
+\text{chronological precision cannot exceed surviving address resolution}.
+}
+]
+
+Worked Historical Specimen — Lunar Information Without Calendrical Jurisdiction
+
+The current Timekeeper research record contains a useful authorization-state contrast. Lunar phenomena remain observable, calculable, and indexable in the surviving lunar and mishmarot materials, while a 364-day calendrical architecture may deny lunar observation the governing role for festival placement.
+
+The narrow source-derived claim is:
+
+[
+\boxed{
+\text{lunar information retained}
+\neq
+\text{lunar calendrical jurisdiction}.
+}
+]
+
+This is an example of object or datum preservation without equivalent governing status.
+
+However, it is not automatically a GQG v0.8 \(D^+\) event.
+
+For:
+
+[
+D^+:(O,B,E)=(1,1,0)\rightarrow(1,0,1),
+]
+
+one specific transition must independently establish:
+
+[
+B_{\mathrm{before}}=1,
+\qquad
+B_{\mathrm{after}}=0,
+\qquad
+E_{\mathrm{before}}=0,
+\qquad
+E_{\mathrm{after}}=1.
+]
+
+Cross-artifact evidence that lunar data survive while lunar calendrical authority is denied establishes a constraint-status contrast. It does not, by itself, supply the before/after event geometry or prove alternate-route activation.
+
+Therefore the current safe classification is:
+
+[
+\boxed{
+O=1\text{ is supported for the lunar datum; governing-status contrast is supported; full }D^+\text{ remains unassigned without event-level }B/E\text{ evidence}.
+}
+]
+
+Temporal Authorization Compact Laws
+
+[
+\boxed{
+T_{\mathrm{dyn}}\neq T_{\mathrm{addr}}\neq T_{\mathrm{bind}}.
+}
+]
+
+[
+\boxed{
+\text{presence in the information system}\neq\text{control of the information system}.
+}
+]
+
+[
+\boxed{
+\text{same coordinate}\neq\text{same converter}\neq\text{same consequence}.
+}
+]
+
+[
+\boxed{
+\text{harmonization}\neq\text{synchronization}.
+}
+]
+
+[
+\boxed{
+\text{normative claim}\neq\text{demonstrated implementation}.
+}
+]
+
+[
+\boxed{
+\text{let every authorization seam earn its own receipt}.
+}
+]
+
+22. Constraint-Status State Space — Coordinates Before Phenotypes
+
+The current GQG refinement makes the event coordinate record primary and treats named event classes as optional downstream projections.
+
+Condition on the object-preserving, previously binding baseline:
+
+[
+O=1,
+\qquad
+B_{\mathrm{before}}=1,
+\qquad
+E_{\mathrm{before}}=0.
+]
+
+The resolved post-event state is then:
+
+[
+(B_{\mathrm{after}},E_{\mathrm{after}})\in\{0,1\}^2.
+]
+
+All four resolved cells are admissible:
+
+[
+(B_{\mathrm{after}},E_{\mathrm{after}})=(1,0)\Rightarrow D^-:
+\text{ binding preserved, no added route},
+]
+
+[
+(B_{\mathrm{after}},E_{\mathrm{after}})=(1,1)\Rightarrow A^+:
+\text{ route annexation with binding preserved},
+]
+
+[
+(B_{\mathrm{after}},E_{\mathrm{after}})=(0,0)\Rightarrow L^+:
+\text{ binding loss without demonstrated rerouting},
+]
+
+and:
+
+[
+(B_{\mathrm{after}},E_{\mathrm{after}})=(0,1)\Rightarrow D^+:
+\text{ full constraint demotion with route activation}.
+]
+
+The full record is therefore:
+
+[
+\boxed{
+(O,B_{\mathrm{before}},B_{\mathrm{after}},E_{\mathrm{before}},E_{\mathrm{after}})
+}
+]
+
+and only afterward, when every required coordinate is resolved, may a macrostate label be assigned.
+
+Thus:
+
+[
+\boxed{
+\text{full coordinate record}\rightarrow\text{optional macrostate projection; never the reverse}.
+}
+]
+
+Unknown Preservation
+
+`UNKNOWN` and `PARTIAL` are not negative states. They remain outside the resolved four-cell projection.
+
+Therefore:
+
+[
+\boxed{
+\text{UNKNOWN}\neq0,
+\qquad
+\text{PARTIAL}\neq0.
+}
+]
+
+A missing route witness does not establish route absence. An unresolved binding coordinate does not establish preserved binding. No unresolved row may be rounded into the nearest phenotype.
+
+Marginals Do Not Manufacture the Joint
+
+Evidence for binding loss in one family and route activation in another family does not establish a full demotion event in either family.
+
+[
+P(B\downarrow\mid O=1)
+\quad\text{and}\quad
+P(E\uparrow\mid O=1)
+\not\Rightarrow
+P(B\downarrow,E\uparrow\mid O=1)>0.
+]
+
+A \(D^+\) numerator is counted only from same-event records in which both coordinate changes are directly established.
+
+The governing law is:
+
+[
+\boxed{
+\text{marginals do not manufacture a joint}.
+}
+]
+
+Version-Safe Meaning of A+
+
+In the current state-space record, \(A^+\) means the resolved post-event cell:
+
+[
+B_{\mathrm{after}}=1,
+\qquad
+E_{\mathrm{after}}=1.
+]
+
+Earlier provisional uses of \(A^+\) remain valid at their declared version and are not silently rewritten. Cross-version comparison must therefore retain the source card version alongside the label.
+
+Retrospective Versus Confirmatory Status
+
+A nonblind retrospective pass may validate the coding architecture, expose missing cells, and demonstrate that the state space is necessary. It does not establish confirmatory prevalence.
+
+Therefore:
+
+[
+\boxed{
+\text{architecture validation}\neq\text{prevalence validation}.
+}
+]
+
+Any confirmatory event-family rate requires the declared blind or otherwise prospectively frozen execution, together with numerator, denominator, unresolved count, matched controls, and cluster structure.
+
+CTA Application — The Lunar Specimen
+
+The lunar example in §21 is intentionally not assigned to \(L^+\), \(A^+\), or \(D^+\) merely from cross-artifact contrast.
+
+The current record supports that lunar information can remain present while calendrical governing status differs across the 364-day architecture. But a resolved event phenotype additionally requires a same-event or otherwise explicitly justified baseline establishing:
+
+[
+B_{\mathrm{before}},
+\quad
+B_{\mathrm{after}},
+\quad
+E_{\mathrm{before}},
+\quad
+E_{\mathrm{after}}.
+]
+
+Without those coordinates, the correct state is:
+
+[
+\boxed{
+\text{constraint-status contrast observed; macrostate projection unresolved}.
+}
+]
+
+This is stronger discipline, not weaker evidence. It preserves the observed distinction while refusing to invent an event trajectory that the witness does not contain.
+
+Compact Laws
+
+[
+\boxed{
+\text{coordinate product is primary; phenotype names are projections}.
+}
+]
+
+[
+\boxed{
+\text{annexation without demotion is a valid state}.
+}
+]
+
+[
+\boxed{
+\text{binding loss without rerouting is a valid state}.
+}
+]
+
+[
+\boxed{
+\text{unknown is not negative}.
+}
+]
+
+[
+\boxed{
+\text{marginals do not manufacture a joint}.
+}
+]
+
+[
+\boxed{
+\text{keep the full state space visible}.
+}
+]
+
+CC0 — No rights reserved.
+Keep the receipt.
+Keep the raw tape.
+Keep the witness.
+Keep the null.
+Keep the misses.
+Then map the fucking weave.
+
+
+23. Immutable Baseline — Extensions Allowed
+
+Freeze protects provenance; it does not close the investigation.
+
+The governing distinction is:
+
+FROZEN WITNESS ≠ CLOSED INVESTIGATION.
+
+A frozen measurement, timestamp, source state, witness definition, or preregistered rule remains immutable under its original identity. New evidence, improved coordinate systems, additional witnesses, independent recomputations, or prospective runs may be attached as separately typed and timestamped extensions.
+
+Schematically:
+
+W_0 → {W_0, W_1, W_2, …}
+
+where W_0 remains unchanged and each W_n records its own source, timestamp, frame, body set, witness, transformations, tolerances, code/run identity, and relation to the baseline.
+
+The prohibited operation is silent mutation, not progression.
+
+Therefore:
+
+IMMUTABLE BASELINE — EXTENSIONS ALLOWED.
+
+A later calculation may disagree with, refine, contextualize, or supersede the interpretation of a frozen witness without overwriting the witness itself. If a baseline rule is deliberately reopened, that action must create a new typed version and preserve the prior version in the provenance chain.
+
+Prospective September 1, 2026 Sidecar
+
+Status: Prospective extension / pre-event run
+Prepared: August 31, 2026
+Relation: Attached to the existing September 1 frozen local-geometry anchor; does not replace it.
+
+Because September 1, 2026 has not yet passed at preparation time, additional pre-event calculations remain legitimate prospective evidence so long as they are timestamped and kept distinct from post-event classification.
+
+For the current run, preserve at minimum:
+
+- exact ephemeris source and retrieval/run timestamp;
+- coordinate frame and any tropical/sidereal conversion;
+- body set;
+- raw planetary state before derived geometry;
+- directed and orientation-forgetting separations as separate witnesses;
+- declared module or recurrence test;
+- local sidereal-time construction if used;
+- what was known before the event;
+- any post-event observations in a later, separately timestamped record.
+
+Frozen prospective record — W_1
+Record class: PRE-EVENT PROSPECTIVE EXTENSION / DISCOVERY-EXPOSED. This is not an untouched confirmation holdout.
+Baseline relation: W_0 remains unchanged. W_1 reproduces and types the already-frozen September 1 local geometry; it does not retune, promote, or reinterpret it.
+Anchor instant: Sep 1, 2026 at 11:40:00 UTC (07:40:00 EDT; UTC−04:00).
+Run executed: Aug 31, 2026 at 21:53:32 UTC.
+Run identity: CTA3-S1-20260831T215332Z-swe21003-moshier.
+Canonical payload SHA-256: 9d2a3680a6dfc66c7cf139a5f5105675202c67d937d2c7c8a86ab23705bafbf0.
+
+Ephemeris source and source boundary
+- W_0 lineage: “Time toroid” records geocentric Swiss Ephemeris daily states at 00:00 UT, linearly interpolated from adjacent days to the frozen instant, with provider label AstroAk. The original retrieval timestamp, engine version, and Swiss data-file set were not preserved; those W_0 fields remain unavailable and are not backfilled.
+- W_1 reproduction: PySwissEph 2.10.03. Requested flags: SEFLG_SWIEPH | SEFLG_SPEED. Returned flag 260 = SEFLG_MOSEPH | SEFLG_SPEED; the effective numerical source is the Swiss Ephemeris engine using its Moshier fallback. Direct evaluation at JD(UT) 2461284.9861152545.
+
+Coordinate frame
+- Apparent geocentric tropical ecliptic longitude of date, in degrees on [0°, 360°). No sidereal or ayanamsa conversion and no topocentric correction.
+- EDT supplies the instant only. No observer latitude/longitude, GMST, or LST enters this witness. “Local-geometry anchor” is retained as the frozen label, not as a claim of location-dependent geometry.
+
+Body set
+- Canonical planet-only order: Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto.
+- Sun and Moon are excluded from the declared test. No body may be added after the anchor.
+
+Raw W_1 state before relative geometry
+Only longitude λ is consumed by the declared witnesses; latitude and geocentric distance are retained as source-state side fields.
+- Mercury: λ 163.614646157°; latitude +1.546177062°; distance 1.377406618 AU.
+- Venus: λ 203.558202331°; latitude −3.450389406°; distance 0.550645066 AU.
+- Mars: λ 103.701771798°; latitude +0.541707354°; distance 1.847388345 AU.
+- Jupiter: λ 133.801730460°; latitude +0.530067139°; distance 6.192349402 AU.
+- Saturn: λ 13.653171139°; latitude −2.652927277°; distance 8.596196673 AU.
+- Uranus: λ 65.659781537°; latitude −0.154163387°; distance 19.360507583 AU.
+- Neptune: λ 3.654063705°; latitude −1.412633208°; distance 28.958398264 AU.
+- Pluto: λ 303.502939370°; latitude −4.299822437°; distance 34.766139482 AU.
+
+Separate witnesses
+- V_DIR(i→j) = wrap_(−180°,180°](λ_j−λ_i). It retains orientation and handedness.
+- V_SHELL({i,j}) = |V_DIR(i→j)|. It forgets orientation.
+- Frozen edge order: Saturn→Mars, Saturn→Jupiter, Saturn→Mercury, Mars→Jupiter, Jupiter→Mercury, Mars→Mercury.
+- V_DIR = (+90.048601°, +120.148559°, +149.961475°, +30.099959°, +29.812916°, +59.912874°).
+- V_SHELL = (90.048601°, 120.148559°, 149.961475°, 30.099959°, 29.812916°, 59.912874°).
+- The two vectors are numerically equal at this instant because every declared directed edge is positive and shorter than 180°. That numerical coincidence does not restore orientation to V_SHELL or make the witnesses identical.
+
+Declared test
+- Object: the already-labelled six-edge Saturn/Mars/Jupiter/Mercury circuit with exact target vector (90°, 120°, 150°, 30°, 30°, 60°) in the frozen edge order.
+- Reproduction criterion: each W_1 directed separation rounded to 0.01° must equal the previously frozen W_0 vector (90.05°, 120.15°, 149.96°, 30.10°, 29.81°, 59.91°).
+- Prohibitions: no edge substitution, body addition, time optimization, moving window, threshold change, frame switch, LST insertion, symbolic tuning, or event label inside the geometry test.
+- Result available pre-event: reproduction criterion MET. Continuous diagnostic against the exact target vector: RMS residual 0.114382°; maximum edge residual 0.187084°.
+- Interpretation limit: this criterion checks provenance and re-execution only. Because the date and module were already in the discovery corpus, MET does not establish an untouched prediction, rarity, global synchronization, causation, mechanism, or historical significance.
+
+Secondary geometry retained as context, not as a pass criterion
+- Pluto→Neptune +60.151124°; Neptune→Uranus +62.005718°; Pluto→Uranus +122.156842°; Neptune→Saturn +9.999107°.
+- These values may contextualize the frozen slow scaffold. They may not be promoted into the declared six-edge result after the fact.
+
+What was known before the anchor
+- The anchor time, six labelled edges, rounded W_0 separations, symbolic gloss, and slow-scaffold context were already discovery-exposed.
+- PRP-0.1 had already classified this as a strong frozen local geometry/symbolic comparison anchor while not showing excess global cross-family synchronization under its family-phase null.
+- No source-to-phase constructor identifies these ephemeris longitudes with the separate three-clock detuning parameter δ. The detuned-strand experiment therefore remains a separate unresolved comparator.
+- No historical event name, post-anchor observation, causal mechanism, or empirical outcome is part of W_1.
+
+Freeze status
+- Raw state: COMPLETE.
+- Directed and shell witnesses: COMPLETE AND SEPARATE.
+- Geometry re-execution: MET PRE-EVENT.
+- Untouched confirmation claim: NOT AVAILABLE; discovery-exposed.
+- External event, mechanism, or historical classification: UNDECLARED / UNRESOLVED.
+- Post-event field: EMPTY BY DESIGN. Any later observation must be written in a separately timestamped record that references W_1 and cannot modify it.
+
+The lifecycle is:
+
+BASELINE WITNESS → PROSPECTIVE SIDECAR → EVENT → POST-EVENT CLASSIFICATION.
+
+No post-event fact may be retrofitted into the prospective sidecar. No prospective extension may silently overwrite the baseline.
+
+Compact laws:
+
+freeze ≠ stop
+preservation ≠ closure
+extension ≠ mutation
+versioning permits progression
+provenance preserves the road already walked
+24. Typed Extension W_2 — Frozen Detuned-Strand Comparator
+
+Status: EXECUTED / TYPED MATHEMATICAL EXTENSION / BASELINE UNCHANGED
+Record class: DISCOVERY-EXPOSED EXPLORATORY COMPARATOR. This is not an untouched confirmation holdout.
+Relation: This record executes the unresolved comparator named in Section 17 and attaches the result after the immutable baseline. It does not replace W_0, W_1, Section 17, or any prior measurement.
+Run identity: CTA3-WEAVE-W2-20260901T072946Z
+Execution date: Sep 1, 2026
+UTC execution window: 07:33:40.842212Z to 07:33:47.108307Z.
+
+Parameter custody
+
+- Primary detuning: delta = +0.003.
+- Provenance class: legacy phase-drift value used as an exploratory normalized frequency offset.
+- Null: delta = 0.
+- Coupling map, frozen before execution: K/abs(delta) = {0, 0.5, 0.9, 1.0, 1.1, 2.0}.
+- Corresponding K values: {0, 0.0015, 0.0027, 0.0030, 0.0033, 0.0060}.
+- Common frequency: removed in the co-rotating quotient; no physical result depends on that gauge choice.
+- Initial state: theta(0) = (0,0,0).
+- Time normalization: tau = abs(delta) t; frozen horizon tau = 600, equivalent to t = 200000 model-time units.
+- Parameter change after outcome inspection: NONE.
+- Physical unit, ephemeris, or source-to-phase constructor: UNAVAILABLE / NOT ASSERTED.
+
+Typed witness
+
+- Relative state: phi = (theta_2-theta_1, theta_3-theta_1) in T^2.
+- Lifted state: tilde_phi in R^2, initialized at (0,0).
+- Deck history: m_weave in Z^2, derived only from the continuous lifted relative path.
+- Principal-coordinate convention: tilde_phi = principal(phi) + 2 pi m_weave with principal components in [-pi,pi).
+- Return: positive oriented Poincare crossing of lifted phi_2 through 2 pi n after departure.
+- Beat period: interval between successive positive oriented returns in the drifting regime.
+- Collective overlap: R = abs(sum_i exp(i theta_i))/3.
+- Lock: convergence to the declared stable relative equilibrium.
+- Slip: a signed deck increment Delta m_weave != (0,0).
+- Field-gauge register: NOT READ, WRITTEN, OR INFERRED. No map from m_weave to W_gauge or q_gauge is assumed.
+
+Exact reduction and bifurcation
+
+For the symmetric frozen initial state, theta_1 = theta_2 is invariant. With alpha = theta_3-theta_1, the full three-oscillator comparator reduces exactly to:
+
+d alpha/dt = delta - K sin(alpha).
+
+The discriminating surface is:
+
+abs(delta) = K.
+
+- If K < abs(delta), alpha drifts, m_weave receives oriented increments (0,+1), and the exact return/beat period is T = 2 pi / sqrt(delta^2-K^2).
+- If K = abs(delta), the comparator lies on the saddle-node-on-invariant-circle boundary; the period diverges and the frozen initial state approaches alpha = pi/2 without a slip.
+- If K > abs(delta), the relative state locks at alpha* = asin(delta/K); winding remains zero, but the stable phase and collective overlap differ from the null.
+
+Executed threshold map
+
+The overlap value below is the mean over the final 20 percent of the frozen tau = 600 horizon.
+
+- K/abs(delta) = 0.0; K = 0; null = NEUTRAL_STATIONARY; detuned = DRIFTING_SLIP_RETURN; exact T = 2094.395102393 model-time units; final m_weave = (0,95); slips = 95; tail mean R = 0.707302195.
+- K/abs(delta) = 0.5; K = 0.0015; null = SYNCHRONOUS_LOCK; detuned = DRIFTING_SLIP_RETURN; exact T = 2418.399152312; final m_weave = (0,83); slips = 83; tail mean R = 0.708734255.
+- K/abs(delta) = 0.9; K = 0.0027; null = SYNCHRONOUS_LOCK; detuned = DRIFTING_SLIP_RETURN; exact T = 4804.871894304; final m_weave = (0,41); slips = 41; tail mean R = 0.724063562.
+- K/abs(delta) = 1.0; K = 0.0030; null = SYNCHRONOUS_LOCK; detuned = CRITICAL_SNIC_BOUNDARY; finite T = NONE; final m_weave = (0,0); slips = 0; critical alpha = pi/2; tail mean R = 0.746461908.
+- K/abs(delta) = 1.1; K = 0.0033; null = SYNCHRONOUS_LOCK; detuned = PHASE_LOCKED; finite T = NONE; final m_weave = (0,0); slips = 0; alpha* = 1.141096661 rad; tail mean R = 0.860645182.
+- K/abs(delta) = 2.0; K = 0.0060; null = SYNCHRONOUS_LOCK; detuned = PHASE_LOCKED; finite T = NONE; final m_weave = (0,0); slips = 0; alpha* = 0.523598776 rad; tail mean R = 0.969770970.
+
+Mechanical verification
+
+- Primary pass: scipy.integrate.solve_ivp / DOP853, rtol 1e-11, atol 1e-13.
+- Independent pass: scipy.integrate.solve_ivp / Radau, rtol 1e-10, atol 1e-12.
+- Exact analytic comparator: Adler relative-flow reduction.
+- Maximum right-hand-side identity error: 4.441e-16.
+- Maximum full-system versus Adler path error over tau = 600: 2.034e-7 rad.
+- Maximum independent-solver endpoint difference: 1.451e-7 rad.
+- Maximum numerical-versus-exact period relative error: 2.270e-10.
+- Null stationary, symmetry, winding orientation, critical-boundary, locked-equilibrium, and period checks: ALL PASSED.
+- Randomness: NONE.
+
+Preflight provenance
+
+The first preflight stopped before emitting a result because its validation layer treated two independently integrated long-horizon trajectories as an exact algebraic identity at 1e-8 rad. The model parameters, coupling grid, solver tolerances, witnesses, and horizon were not changed. The corrected validation separates the exact right-hand-side identity check at 1e-12 from numerical path agreement at 5e-7 rad over tau = 600. The stopped preflight and failed-code hash remain in the reproduction bundle.
+
+Typed result
+
+REPRODUCIBLE DOWNSTREAM DIFFERENCE: MET IN THE FROZEN EXPLORATORY COMPARATOR.
+
+For K < abs(delta), the delta = 0 control remains stationary or synchronously locked while delta = +0.003 produces deterministic positive winding, repeated oriented slips, and an exact return geometry. At K = abs(delta), the system reaches the declared bifurcation surface and the return period diverges. For K > abs(delta), the system remains locked but at a nonzero relative phase with reduced overlap.
+
+ARCHITECTURAL STATUS: EARNED CONDITIONALLY INSIDE M_weave. The frozen offset changes return, winding, phase, overlap, and lock/slip observables without retuning.
+
+Scope boundary
+
+This result establishes a mathematical property of the declared exploratory comparator. It does not establish physical coupling, planetary dynamics, a cosmic mechanism, empirical rarity, historical causation, symbolic confirmation, or a map to the field-gauge register. The legacy value +0.003 remains a legacy/exploratory parameter unless an independent source-to-phase constructor earns a stronger class.
+
+Reproduction receipt
+
+Freeze packet SHA-256: 03cbecde63e0d7c83818966e0935830e514f7801e3d744405568ebdef183d1dc
+Comparator code SHA-256: e48a95918c25ecf6af79f8c3ab631a313d5740f21a4c1361e32fa84aaa16422b
+Results SHA-256: 5d5150b719eea69bb8889cbfe1863e9aa8a980dfcad05ae715475ed89cae2beb
+Receipt SHA-256: 13598a1b57027470b10e550433ba84a8d6a621f0d49c2f8e2ca8f87648dfc1e2
+Bundle filename: CTA3_WEAVE_COMPARATOR_W2_REPRODUCTION_BUNDLE.zip
+Bundle SHA-256: f4e5f7ea899ccd5d34835f100e9e77215c80c56e3fbcbd6082061cbc2b58d7d4
+Baseline normalized-text SHA-256 before extension: 29fed696f549bf5a6c4b9d8b1b2ba278362b516bd4f47c6d186fa7c99043e80b
+
+Freeze protects provenance; it does not prohibit a typed result. W_0 and W_1 remain unchanged.
+
+25. Typed Temporal Consequences and Address-Space Continuity
+
+The Timekeeper historical run sharpens §21 without changing its authorization seam. The basic chain remains:
+
+[
+\boxed{
+\mathsf{Rep}
+\rightarrow
+\mathsf{Conv}
+\rightarrow
+Q
+\rightarrow
+J
+\rightarrow
+I
+}
+]
+
+but the consequence coordinate Q is not one undifferentiated species.
+
+Typed Consequence Classes
+
+For CTA use, retain four consequence classes:
+
+[
+\boxed{
+Q\in\{Q_{\mathrm{NORM}},Q_{\mathrm{RIT}},Q_{\mathrm{ADDR}},Q_{\mathrm{HIST}}\}
+}
+]
+
+where:
+
+[
+Q_{\mathrm{NORM}}=\text{normative consequence: what is prescribed, prohibited, required, or evaluated},
+]
+
+[
+Q_{\mathrm{RIT}}=\text{ritual/procedural consequence: what action follows from a declared ritual state},
+]
+
+[
+Q_{\mathrm{ADDR}}=\text{administrative/addressing consequence: where a person, course, event, or task is placed in a temporal system},
+]
+
+and:
+
+[
+Q_{\mathrm{HIST}}=\text{historical-memory consequence: where an event is located or retained in an archival temporal frame}.
+]
+
+The shorter excavation aliases Q_N, Q_R, Q_A, and Q_H may be retained in source-facing notes. In CTA, the expanded subscripts are preferred so Q_{\mathrm{RIT}} cannot be confused with the abolished OMNIBUS R-layer.
+
+These consequence classes are not interchangeable.
+
+Therefore:
+
+[
+\boxed{
+\text{where something is}\neq\text{what must be done there}\neq\text{how it is remembered}.
+}
+]
+
+A calendrical coordinate can generate Q_{\mathrm{ADDR}} without generating Q_{\mathrm{NORM}}. A ritual procedure can generate Q_{\mathrm{RIT}} without establishing that the procedure governed an institution historically. An archival address can generate Q_{\mathrm{HIST}} without assigning anyone a duty.
+
+The governing rule is:
+
+[
+\boxed{
+\text{type the consequence before making an authority claim}.
+}
+]
+
+Timekeeper as an Interoperable Protocol
+
+The historical corpus no longer requires one universal Timekeeper office. A cleaner recoverable object is:
+
+[
+\boxed{
+\mathcal T
+=
+\left(
+G,
+\{\mathsf{Conv}_i\},
+\{Q_i\},
+\{J_i\},
+\{I_i\}
+\right)
+}
+]
+
+where:
+
+[
+G=\text{a temporal/address substrate},
+]
+
+[
+\mathsf{Conv}_i=\text{a typed converter that consumes some part of }G,
+]
+
+[
+Q_i=\text{the typed consequence produced},
+]
+
+[
+J_i=\text{the domain over which that consequence claims standing},
+]
+
+and:
+
+[
+I_i=\text{the implementation witness, when implementation is claimed}.
+]
+
+No single person, desk, school, document, priesthood, or hidden operator is required merely because these components interoperate.
+
+Thus:
+
+[
+\boxed{
+\text{protocol interoperability}\neq\text{operator identity}.
+}
+]
+
+Address-Space Continuity
+
+A temporal coordinate system can survive changes in personnel, institution, document, language, or interpretive shell.
+
+Let:
+
+[
+G_t
+]
+
+denote a temporal address substrate at historical stage t. If later users preserve enough of its coordinate relations to read, translate, or reuse its addresses, then a continuity claim may be available at the level of representation even when personnel continuity is absent.
+
+Therefore:
+
+[
+\boxed{
+\text{continuity of address space}
+\not\Rightarrow
+\text{continuity of operator}.
+}
+]
+
+Likewise:
+
+[
+\boxed{
+\text{same address}
+\not\Rightarrow
+\text{same author}
+\not\Rightarrow
+\text{same office}
+\not\Rightarrow
+\text{same transmission route}.
+}
+]
+
+This is the historical analogue of the Hidden Quotient rule that equal visible outputs do not reconstruct equal source states or equal paths.
+
+A later community may therefore reuse a temporal representation without preserving the original operator who produced it. The minimum requirement is a recoverable representation plus sufficient conversion knowledge for the later consumer's task.
+
+The stronger historical claim:
+
+[
+\text{same professional lineage},
+]
+
+or:
+
+[
+\text{same institutional command chain},
+]
+
+requires independent provenance.
+
+The Interface Is Not an Actor
+
+When astronomical model maintenance, calendrical indexing, ritual procedure, historical addressing, and authorization occur in different artifacts or social locations, their interface must remain a relation unless an actor is independently recovered.
+
+Schematically:
+
+[
+A_{\mathrm{technical}}
+\xrightarrow{\Sigma}
+G
+\xrightarrow{\mathsf{Conv}}
+Q
+]
+
+may describe a valid functional pipeline.
+
+It does not imply:
+
+[
+\boxed{
+\Sigma=\text{a hidden Timekeeper person or office}.
+}
+]
+
+The same non-reification rule applies to tables, calendars, curricula, ledgers, harmonizers, and administrative handoffs.
+
+A bridge is allowed to remain a bridge.
+
+Clock Harmonization Boundary
+
+Distinct clocks may be related by a declared adapter:
+
+[
+C_a\xrightarrow{\Sigma_{\mathrm{harm}}}C_b,
+]
+
+while both source clocks remain independently retained.
+
+Therefore:
+
+[
+\boxed{
+\text{harmonization}\neq\text{identity}\neq\text{synchronization}\neq\text{common operator}.
+}
+]
+
+A higher-order cycle may provide interoperable addresses without proving that the underlying cycles are dynamically phase locked or historically maintained by one office.
+
+Implementation Firewall
+
+A complete authorization claim remains:
+
+[
+\mathsf{Rep}
+\rightarrow
+\mathsf{Conv}
+\rightarrow
+Q_{\ast}
+\rightarrow
+J
+\rightarrow
+I.
+]
+
+The typed consequence does not eliminate the implementation burden.
+
+Thus:
+
+[
+\boxed{
+\text{textual prescription}\neq\text{institutional deployment}
+}
+]
+
+and:
+
+[
+\boxed{
+\text{administrative address}\neq\text{evidence that the address actually governed practice}.
+}
+]
+
+When I is unavailable, the chain remains partial. UNKNOWN is not converted into NO, and a coherent upstream protocol is not promoted into historical implementation by resemblance.
+
+Current Timekeeper Definition
+
+The earlier project-language — “the office that turns time into obligation” — is retained as provenance but is no longer the preferred architectural definition.
+
+The current definition is:
+
+[
+\boxed{
+\begin{gathered}
+\textbf{Timekeeper audits how temporal representations are converted into typed consequences,}\\
+\textbf{which domains those consequences claim to bind or address,}\\
+\textbf{and whether the claimed implementation is actually witnessed.}
+\end{gathered}
+}
+]
+
+The compact law is:
+
+[
+\boxed{
+\text{the clock is not the authority; the converter is not the authority;}
+}
+]
+
+[
+\boxed{
+\text{authority appears only when a consequence acquires standing in a demonstrated domain.}
+}
+]
+
+And the historical continuity law is:
+
+[
+\boxed{
+\text{keep the address; type the converter; type the consequence; do not invent the operator}.
+}
+]
+
+26. PRP-0.1 Reproduction-Pointer Attachment
+
+Status: PARTIAL POINTER ATTACHMENT / FROZEN RESULT SUMMARIES UNCHANGED
+Record rule: This append-only section attaches only source records already present in Drive or the connected GitHub boundary. A PARTIAL pointer names a real source but does not satisfy the complete run-level field. No value is inferred across documents.
+Run-separation rule: The later W_1 local-anchor and W_2 detuned-strand records are different runs and witnesses. Their code or run identifiers do not backfill PRP-0.1.
+
+Frozen result boundary (unchanged)
+MODULE RECURRENCE: YES.
+EPISODE STRUCTURE: YES.
+HANDEDNESS MATTERS.
+GLOBAL EXCESS SYNCHRONIZATION: NOT SHOWN.
+
+Source register
+D1 — Modular Planetary Recurrence Geometry
+D2 — Time toroid
+D3 — September Time
+GitHub boundary — The connected repository MailanPatternMonkey-ai/Gettin-Started has no CTA, PRP, planetary-recurrence, or Cosmic Time entry in README.md or corpus/manifest.json. No GitHub reproduction-package pointer is attached.
+
+Field dispositions
+
+Required field
+Disposition
+Grounded record / blocker
+Ephemeris / frame
+PARTIAL — D1, D2
+Geocentric ecliptic longitude and Swiss Ephemeris are named. The PRP-0.1 scan's engine version, data files, time scale, interpolation, and realization record are not recovered.
+Body set
+UNRESOLVED
+“Planet-only” is recorded, but no recovered source binds an exact enumerated body set to the 739,855-state PRP-0.1 scan. Do not infer it.
+Time interval
+ATTACHED — D1, D2
+CE 1 through 2026-08-27; 739,855 daily states.
+Module dictionary
+PARTIAL — D1
+The semantic module schema and count (61 primary modules across 16 source families) are recorded. The complete 61-entry dictionary is not recovered.
+Witness definition
+ATTACHED — D1, D2
+W_DIR retains signed orientation and handedness. W_SHELL forgets handedness and retains shell geometry. The canonical unit is a maximal recurrence episode or window.
+Tolerances
+UNRESOLVED
+The sources name strict and common-threshold use and require frozen tolerances, but the numeric tolerance and threshold map is not recovered.
+Orientation rule
+ATTACHED — D1
+δ_ij = wrap_{(-180°, 180°]}(λ_i − λ_j); d_ij = |δ_ij|. W_DIR preserves sign; W_SHELL identifies the mirrored shell geometry.
+Code version
+UNRESOLVED
+No code release, commit, script hash, or environment manifest bound to PRP-0.1 was found. The PRP freeze hash is not a code version.
+Run ID
+UNRESOLVED
+No aggregate-scan run identifier was found. The later W_1 and W_2 run IDs belong to different records and are excluded.
+Null specification
+PARTIAL — D1, D2, D3
+An episode-level family-phase null and randomized family-phase controls are named. The exact randomization unit, constraints, repetitions or seeds, test statistic, and decision rule are not recovered.
+
+Recovered integrity anchor
+PRP freeze hash: 091a1faa6b523ec710babc19e97d44c5666fb7bde36874d9f38a76d76f8324f2
+This hash identifies the frozen PRP record. It does not substitute for a code version or run ID.
+
+Completeness disposition
+COMPLETE REPRODUCTION PACKAGE: NOT RECOVERED / NOT ATTACHED.
+Outstanding blockers: scan-specific ephemeris realization; exact enumerated body set; complete 61-entry module dictionary; numeric tolerances and thresholds; code version; aggregate-scan run ID; complete null specification.
+The source-level pointers above are attached only to the fields they actually support. The frozen result remains:
+GLOBAL EXCESS SYNCHRONIZATION: NOT SHOWN.
+
