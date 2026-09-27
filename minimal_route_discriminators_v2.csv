@@ -1,0 +1,5 @@
+observed_route_class,minimal_feature_count,minimal_rule
+OBSROUTE-b50c7dde0a,4,thoughts=YES AND visually_hidden=NO AND work_status=NO AND tool=NO
+OBSROUTE-455a4bc378,4,thoughts=YES AND visually_hidden=YES AND work_status=YES AND tool=NO
+OBSROUTE-a29bb5fd89,3,preamble=YES AND visually_hidden=YES AND checking=NO
+OBSROUTE-8c083c1873,3,preamble=NO AND visually_hidden=NO AND checking=NO
